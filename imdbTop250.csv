@@ -1,0 +1,251 @@
+movie_title,year,place,star_cast,rating,vote,link
+The Shawshank Redemption,1994,1,"Frank Darabont (dir.), Tim Robbins, Morgan Freeman",9.222613448143798,2273665,/title/tt0111161/
+The Godfather,1972,2,"Francis Ford Coppola (dir.), Marlon Brando, Al Pacino",9.148975372106552,1568586,/title/tt0068646/
+The Godfather: Part II,1974,3,"Francis Ford Coppola (dir.), Al Pacino, Robert De Niro",8.981327595276008,1095986,/title/tt0071562/
+The Dark Knight,2008,4,"Christopher Nolan (dir.), Christian Bale, Heath Ledger",8.972502573684777,2235931,/title/tt0468569/
+12 Angry Men,1957,5,"Sidney Lumet (dir.), Henry Fonda, Lee J. Cobb",8.929318876308885,666530,/title/tt0050083/
+Schindler's List,1993,6,"Steven Spielberg (dir.), Liam Neeson, Ralph Fiennes",8.906441759953289,1180540,/title/tt0108052/
+The Lord of the Rings: The Return of the King,2003,7,"Peter Jackson (dir.), Elijah Wood, Viggo Mortensen",8.882821491833429,1601109,/title/tt0167260/
+Pulp Fiction,1994,8,"Quentin Tarantino (dir.), John Travolta, Uma Thurman",8.846001431443309,1776367,/title/tt0110912/
+"Il buono, il brutto, il cattivo",1966,9,"Sergio Leone (dir.), Clint Eastwood, Eli Wallach",8.79726336839226,670978,/title/tt0060196/
+ The Lord of the Rings: The Fellowship of the Ring,2001,1,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",8.774679648911961,1616750,/title/tt0120737/
+Fight Club,1999,11,"David Fincher (dir.), Brad Pitt, Edward Norton",8.76751778192552,1803530,/title/tt0137523/
+Forrest Gump,1994,12,"Robert Zemeckis (dir.), Tom Hanks, Robin Wright",8.752861418824331,1751269,/title/tt0109830/
+Inception,2010,13,"Christopher Nolan (dir.), Leonardo DiCaprio, Joseph Gordon-Levitt",8.719706749394945,1995056,/title/tt1375666/
+Star Wars: Episode V - The Empire Strikes Back,1980,14,"Irvin Kershner (dir.), Mark Hamill, Harrison Ford",8.69925766854684,1129929,/title/tt0080684/
+The Lord of the Rings: The Two Towers,2002,15,"Peter Jackson (dir.), Elijah Wood, Ian McKellen",8.698086220409428,1446837,/title/tt0167261/
+The Matrix,1999,16,"Lana Wachowski (dir.), Keanu Reeves, Laurence Fishburne",8.648448490803679,1628453,/title/tt0133093/
+Goodfellas,1990,17,"Martin Scorsese (dir.), Robert De Niro, Ray Liotta",8.64348359655079,988919,/title/tt0099685/
+One Flew Over the Cuckoo's Nest,1975,18,"Milos Forman (dir.), Jack Nicholson, Louise Fletcher",8.639830002046278,889313,/title/tt0073486/
+Shichinin no samurai,1954,19,"Akira Kurosawa (dir.), Toshirô Mifune, Takashi Shimura",8.604133128261916,307177,/title/tt0047478/
+Se7en,1995,20,"David Fincher (dir.), Morgan Freeman, Brad Pitt",8.591806968938574,1398527,/title/tt0114369/
+La vita è bella,1997,21,"Roberto Benigni (dir.), Roberto Benigni, Nicoletta Braschi",8.583123760696024,604156,/title/tt0118799/
+Cidade de Deus,2002,22,"Fernando Meirelles (dir.), Alexandre Rodrigues, Leandro Firmino",8.580772639187698,684725,/title/tt0317248/
+The Silence of the Lambs,1991,23,"Jonathan Demme (dir.), Jodie Foster, Anthony Hopkins",8.574919808970886,1230997,/title/tt0102926/
+It's a Wonderful Life,1946,24,"Frank Capra (dir.), James Stewart, Donna Reed",8.571352151529847,387486,/title/tt0038650/
+Star Wars,1977,25,"George Lucas (dir.), Mark Hamill, Harrison Ford",8.55730753103462,1202049,/title/tt0076759/
+Saving Private Ryan,1998,26,"Steven Spielberg (dir.), Tom Hanks, Matt Damon",8.548905086562534,1201045,/title/tt0120815/
+Sen to Chihiro no kamikakushi,2001,27,"Hayao Miyazaki (dir.), Daveigh Chase, Suzanne Pleshette",8.541049104951208,624343,/title/tt0245429/
+The Green Mile,1999,28,"Frank Darabont (dir.), Tom Hanks, Michael Clarke Duncan",8.53674813855766,1109616,/title/tt0120689/
+Gisaengchung,2019,29,"Bong Joon Ho (dir.), Kang-ho Song, Sun-kyun Lee",8.53562462848061,462887,/title/tt6751668/
+Hamilton,2020,30,"Thomas Kail (dir.), Lin-Manuel Miranda, Phillipa Soo",8.53430927051792,34407,/title/tt8503618/
+Interstellar,2014,31,"Christopher Nolan (dir.), Matthew McConaughey, Anne Hathaway",8.529871577893548,1443021,/title/tt0816692/
+Léon,1994,32,"Luc Besson (dir.), Jean Reno, Gary Oldman",8.511979603188642,1005323,/title/tt0110413/
+The Usual Suspects,1995,33,"Bryan Singer (dir.), Kevin Spacey, Gabriel Byrne",8.50147577122647,966918,/title/tt0114814/
+Seppuku,1962,34,"Masaki Kobayashi (dir.), Tatsuya Nakadai, Akira Ishihama",8.499311808465405,36857,/title/tt0056058/
+The Lion King,1994,35,"Roger Allers (dir.), Matthew Broderick, Jeremy Irons",8.491786524479158,915151,/title/tt0110357/
+Back to the Future,1985,36,"Robert Zemeckis (dir.), Michael J. Fox, Christopher Lloyd",8.486309018841103,1024632,/title/tt0088763/
+The Pianist,2002,37,"Roman Polanski (dir.), Adrien Brody, Thomas Kretschmann",8.485872377102819,706154,/title/tt0253474/
+Terminator 2: Judgment Day,1991,38,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",8.485600738588026,973119,/title/tt0103064/
+American History X,1998,39,"Tony Kaye (dir.), Edward Norton, Edward Furlong",8.4842862319311,1012295,/title/tt0120586/
+Modern Times,1936,40,"Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",8.4834372091883,210612,/title/tt0027977/
+Psycho,1960,41,"Alfred Hitchcock (dir.), Anthony Perkins, Janet Leigh",8.476987974823546,585152,/title/tt0054215/
+Gladiator,2000,42,"Ridley Scott (dir.), Russell Crowe, Joaquin Phoenix",8.476245909368073,1305202,/title/tt0172495/
+City Lights,1931,43,"Charles Chaplin (dir.), Charles Chaplin, Virginia Cherrill",8.473347564887424,162110,/title/tt0021749/
+The Departed,2006,44,"Martin Scorsese (dir.), Leonardo DiCaprio, Matt Damon",8.47158700219841,1157151,/title/tt0407887/
+The Intouchables,2011,45,"Olivier Nakache (dir.), François Cluzet, Omar Sy",8.469508813378074,735016,/title/tt1675434/
+Whiplash,2014,46,"Damien Chazelle (dir.), Miles Teller, J.K. Simmons",8.468137837313739,688542,/title/tt2582802/
+The Prestige,2006,47,"Christopher Nolan (dir.), Christian Bale, Hugh Jackman",8.459083287032716,1151824,/title/tt0482571/
+Hotaru no haka,1988,48,"Isao Takahata (dir.), Tsutomu Tatsumi, Ayano Shiraishi",8.453195248859439,224443,/title/tt0095327/
+Once Upon a Time in the West,1968,49,"Sergio Leone (dir.), Henry Fonda, Charles Bronson",8.450671573558798,294370,/title/tt0064116/
+Casablanca,1942,50,"Michael Curtiz (dir.), Humphrey Bogart, Ingrid Bergman",8.43870590368969,508887,/title/tt0034583/
+Nuovo Cinema Paradiso,1988,51,"Giuseppe Tornatore (dir.), Philippe Noiret, Enzo Cannavale",8.431140400452591,222297,/title/tt0095765/
+Rear Window,1954,52,"Alfred Hitchcock (dir.), James Stewart, Grace Kelly",8.428402995945332,431293,/title/tt0047396/
+Alien,1979,53,"Ridley Scott (dir.), Sigourney Weaver, Tom Skerritt",8.421904007719819,767111,/title/tt0078748/
+Apocalypse Now,1979,54,"Francis Ford Coppola (dir.), Martin Sheen, Marlon Brando",8.419806790670549,589772,/title/tt0078788/
+Memento,2000,55,"Christopher Nolan (dir.), Guy Pearce, Carrie-Anne Moss",8.415161059632808,1095843,/title/tt0209144/
+Raiders of the Lost Ark,1981,56,"Steven Spielberg (dir.), Harrison Ford, Karen Allen",8.411913485117038,863790,/title/tt0082971/
+The Great Dictator,1940,57,"Charles Chaplin (dir.), Charles Chaplin, Paulette Goddard",8.411328875965996,196842,/title/tt0032553/
+Joker,2019,58,"Todd Phillips (dir.), Joaquin Phoenix, Robert De Niro",8.401334920256177,843685,/title/tt7286456/
+The Lives of Others,2006,59,"Florian Henckel von Donnersmarck (dir.), Ulrich Mühe, Martina Gedeck",8.390486945595942,348778,/title/tt0405094/
+Django Unchained,2012,60,"Quentin Tarantino (dir.), Jamie Foxx, Christoph Waltz",8.390445493113305,1314667,/title/tt1853728/
+Paths of Glory,1957,61,"Stanley Kubrick (dir.), Kirk Douglas, Ralph Meeker",8.37503438048992,172099,/title/tt0050825/
+The Shining,1980,62,"Stanley Kubrick (dir.), Jack Nicholson, Shelley Duvall",8.369067281905794,866957,/title/tt0081505/
+WALL·E,2008,63,"Andrew Stanton (dir.), Ben Burtt, Elissa Knight",8.368200892001532,972710,/title/tt0910970/
+Avengers: Infinity War,2018,64,"Anthony Russo (dir.), Robert Downey Jr., Chris Hemsworth",8.366268873991816,793155,/title/tt4154756/
+Sunset Blvd,1950,65,"Billy Wilder (dir.), William Holden, Gloria Swanson",8.360609103914854,195227,/title/tt0043014/
+Mononoke-hime,1997,66,"Hayao Miyazaki (dir.), Yôji Matsuda, Yuriko Ishida",8.352653615439461,329757,/title/tt0119698/
+Witness for the Prosecution,1957,67,"Billy Wilder (dir.), Tyrone Power, Marlene Dietrich",8.35258489583518,104085,/title/tt0051201/
+Spider-Man: Into the Spider-Verse,2018,68,"Bob Persichetti (dir.), Shameik Moore, Jake Johnson",8.352520811853667,333200,/title/tt4633694/
+Dr Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,69,"Stanley Kubrick (dir.), Peter Sellers, George C. Scott",8.351373040036506,440253,/title/tt0057012/
+Oldeuboi,2003,70,"Chan-wook Park (dir.), Min-sik Choi, Ji-Tae Yoo",8.351212707355877,499786,/title/tt0364569/
+The Dark Knight Rises,2012,71,"Christopher Nolan (dir.), Christian Bale, Tom Hardy",8.334143427981925,1477072,/title/tt1345836/
+Once Upon a Time in America,1984,72,"Sergio Leone (dir.), Robert De Niro, James Woods",8.331588128369996,301475,/title/tt0087843/
+Avengers: Endgame,2019,73,"Anthony Russo (dir.), Robert Downey Jr., Chris Evans",8.325028709917381,749206,/title/tt4154796/
+Aliens,1986,74,"James Cameron (dir.), Sigourney Weaver, Michael Biehn",8.32431444902996,638303,/title/tt0090605/
+Kimi no na wa,2016,75,"Makoto Shinkai (dir.), Ryûnosuke Kamiki, Mone Kamishiraishi",8.319915393510014,176946,/title/tt5311514/
+Coco,2017,76,"Lee Unkrich (dir.), Anthony Gonzalez, Gael García Bernal",8.313931287314418,350328,/title/tt2380307/
+American Beauty,1999,77,"Sam Mendes (dir.), Kevin Spacey, Annette Bening",8.308180968131998,1047300,/title/tt0169547/
+Braveheart,1995,78,"Mel Gibson (dir.), Mel Gibson, Sophie Marceau",8.303023447174981,940228,/title/tt0112573/
+3 Idiots,2009,79,"Rajkumar Hirani (dir.), Aamir Khan, Madhavan",8.30103360742269,331106,/title/tt1187043/
+Das Boot,1981,80,"Wolfgang Petersen (dir.), Jürgen Prochnow, Herbert Grönemeyer",8.299583568993956,225905,/title/tt0082096/
+Toy Story,1995,81,"John Lasseter (dir.), Tom Hanks, Tim Allen",8.295847977458191,862612,/title/tt0114709/
+Tengoku to jigoku,1963,82,"Akira Kurosawa (dir.), Toshirô Mifune, Yutaka Sada",8.294949078152856,30959,/title/tt0057565/
+Amadeus,1984,83,"Milos Forman (dir.), F. Murray Abraham, Tom Hulce",8.289494028282688,360284,/title/tt0086879/
+Taare Zameen Par,2007,84,"Aamir Khan (dir.), Darsheel Safary, Aamir Khan",8.289087246609778,161198,/title/tt0986264/
+Star Wars: Episode VI - Return of the Jedi,1983,85,"Richard Marquand (dir.), Mark Hamill, Harrison Ford",8.286558728460657,926347,/title/tt0086190/
+Inglourious Basterds,2009,86,"Quentin Tarantino (dir.), Brad Pitt, Diane Kruger",8.28386649585292,1226848,/title/tt0361748/
+Reservoir Dogs,1992,87,"Quentin Tarantino (dir.), Harvey Keitel, Tim Roth",8.282320740519417,894671,/title/tt0105236/
+Good Will Hunting,1997,88,"Gus Van Sant (dir.), Robin Williams, Matt Damon",8.279514566106702,835283,/title/tt0119217/
+Capharnaüm,2018,89,"Nadine Labaki (dir.), Zain Al Rafeea, Yordanos Shiferaw",8.277263134346002,52543,/title/tt8267604/
+2001: A Space Odyssey,1968,90,"Stanley Kubrick (dir.), Keir Dullea, Gary Lockwood",8.27180370345569,586400,/title/tt0062622/
+Requiem for a Dream,2000,91,"Darren Aronofsky (dir.), Ellen Burstyn, Jared Leto",8.267774841658857,746802,/title/tt0180093/
+Vertigo,1958,92,"Alfred Hitchcock (dir.), James Stewart, Kim Novak",8.267244314709092,351526,/title/tt0052357/
+M - Eine Stadt sucht einen Mörder,1931,93,"Fritz Lang (dir.), Peter Lorre, Ellen Widmann",8.264345542750247,138904,/title/tt0022100/
+Dangal,2016,94,"Nitesh Tiwari (dir.), Aamir Khan, Sakshi Tanwar",8.26388261693126,147002,/title/tt5074352/
+1917,2019,95,"Sam Mendes (dir.), Dean-Charles Chapman, George MacKay",8.263694986075496,356803,/title/tt8579674/
+Eternal Sunshine of the Spotless Mind,2004,96,"Michel Gondry (dir.), Jim Carrey, Kate Winslet",8.259377261638637,887783,/title/tt0338013/
+Jagten,2012,97,"Thomas Vinterberg (dir.), Mads Mikkelsen, Thomas Bo Larsen",8.25734488208535,268652,/title/tt2106476/
+Citizen Kane,1941,98,"Orson Welles (dir.), Orson Welles, Joseph Cotten",8.255545541296577,388461,/title/tt0033467/
+Full Metal Jacket,1987,99,"Stanley Kubrick (dir.), Matthew Modine, R. Lee Ermey",8.249780170900657,656665,/title/tt0093058/
+ Ladri di biciclette,1948,10,"Vittorio De Sica (dir.), Lamberto Maggiorani, Enzo Staiola",8.24804023938027,141042,/title/tt0040522/
+The Kid,1921,101,"Charles Chaplin (dir.), Charles Chaplin, Edna Purviance",8.246901262439444,108662,/title/tt0012349/
+A Clockwork Orange,1971,102,"Stanley Kubrick (dir.), Malcolm McDowell, Patrick Magee",8.246529972733946,738818,/title/tt0066921/
+North by Northwest,1959,103,"Alfred Hitchcock (dir.), Cary Grant, Eva Marie Saint",8.246435259942967,290916,/title/tt0053125/
+Snatch,2000,104,"Guy Ritchie (dir.), Jason Statham, Brad Pitt",8.245139296512255,765195,/title/tt0208092/
+Singin' in the Rain,1952,105,"Stanley Donen (dir.), Gene Kelly, Donald O'Connor",8.244434576568198,212665,/title/tt0045152/
+Scarface,1983,106,"Brian De Palma (dir.), Al Pacino, Michelle Pfeiffer",8.242544131275897,719598,/title/tt0086250/
+Taxi Driver,1976,107,"Martin Scorsese (dir.), Robert De Niro, Jodie Foster",8.239707244010408,701350,/title/tt0075314/
+Amélie,2001,108,"Jean-Pierre Jeunet (dir.), Audrey Tautou, Mathieu Kassovitz",8.23516377242159,689437,/title/tt0211915/
+Lawrence of Arabia,1962,109,"David Lean (dir.), Peter O'Toole, Alec Guinness",8.2348148189793,260937,/title/tt0056172/
+Ikiru,1952,110,"Akira Kurosawa (dir.), Takashi Shimura, Nobuo Kaneko",8.234356194295687,65122,/title/tt0044741/
+Toy Story 3,2010,111,"Lee Unkrich (dir.), Tom Hanks, Tim Allen",8.234161582054814,738293,/title/tt0435761/
+The Sting,1973,112,"George Roy Hill (dir.), Paul Newman, Robert Redford",8.233503648468956,235807,/title/tt0070735/
+Metropolis,1927,113,"Fritz Lang (dir.), Brigitte Helm, Alfred Abel",8.231729858762531,155706,/title/tt0017136/
+Jodaeiye Nader az Simin,2011,114,"Asghar Farhadi (dir.), Payman Maadi, Leila Hatami",8.230759842799277,213604,/title/tt1832382/
+Per qualche dollaro in più,1965,115,"Sergio Leone (dir.), Clint Eastwood, Lee Van Cleef",8.228683455481631,225334,/title/tt0059578/
+Incendies,2010,116,"Denis Villeneuve (dir.), Lubna Azabal, Mélissa Désormeaux-Poulin",8.224307113391228,141850,/title/tt1255953/
+The Apartment,1960,117,"Billy Wilder (dir.), Jack Lemmon, Shirley MacLaine",8.22246825202911,158443,/title/tt0053604/
+Double Indemnity,1944,118,"Billy Wilder (dir.), Fred MacMurray, Barbara Stanwyck",8.22170441160036,139192,/title/tt0036775/
+To Kill a Mockingbird,1962,119,"Robert Mulligan (dir.), Gregory Peck, John Megna",8.216311794219157,288334,/title/tt0056592/
+Idi i smotri,1985,120,"Elem Klimov (dir.), Aleksey Kravchenko, Olga Mironova",8.213293617047546,53710,/title/tt0091251/
+Indiana Jones and the Last Crusade,1989,121,"Steven Spielberg (dir.), Harrison Ford, Sean Connery",8.211892486599641,675636,/title/tt0097576/
+Up,2009,122,"Pete Docter (dir.), Edward Asner, Jordan Nagai",8.211417154137832,909488,/title/tt1049413/
+LA Confidential,1997,123,"Curtis Hanson (dir.), Kevin Spacey, Russell Crowe",8.203156601499643,520642,/title/tt0119488/
+Heat,1995,124,"Michael Mann (dir.), Al Pacino, Robert De Niro",8.201740445003924,561010,/title/tt0113277/
+Monty Python and the Holy Grail,1975,125,"Terry Gilliam (dir.), Graham Chapman, John Cleese",8.196140003165317,490746,/title/tt0071853/
+Anand,1971,126,"Hrishikesh Mukherjee (dir.), Rajesh Khanna, Amitabh Bachchan",8.195594075396247,27856,/title/tt0066763/
+Die Hard,1988,127,"John McTiernan (dir.), Bruce Willis, Alan Rickman",8.194317451335225,766638,/title/tt0095016/
+Rashômon,1950,128,"Akira Kurosawa (dir.), Toshirô Mifune, Machiko Kyô",8.192071945294288,147763,/title/tt0042876/
+Yôjinbô,1961,129,"Akira Kurosawa (dir.), Toshirô Mifune, Eijirô Tôno",8.190799658544524,107232,/title/tt0055630/
+Batman Begins,2005,130,"Christopher Nolan (dir.), Christian Bale, Michael Caine",8.190287768187073,1274888,/title/tt0372784/
+Green Book,2018,131,"Peter Farrelly (dir.), Viggo Mortensen, Mahershala Ali",8.187256869345358,339074,/title/tt6966692/
+Der Untergang,2004,132,"Oliver Hirschbiegel (dir.), Bruno Ganz, Alexandra Maria Lara",8.185624219973281,324048,/title/tt0363163/
+Bacheha-Ye aseman,1997,133,"Majid Majidi (dir.), Mohammad Amir Naji, Amir Farrokh Hashemian",8.184505193998705,61999,/title/tt0118849/
+Unforgiven,1992,134,"Clint Eastwood (dir.), Clint Eastwood, Gene Hackman",8.18147193931744,366452,/title/tt0105695/
+Some Like It Hot,1959,135,"Billy Wilder (dir.), Marilyn Monroe, Tony Curtis",8.175947229061954,237494,/title/tt0053291/
+Ran,1985,136,"Akira Kurosawa (dir.), Tatsuya Nakadai, Akira Terao",8.174770293049875,108476,/title/tt0089881/
+Hauru no ugoku shiro,2004,137,"Hayao Miyazaki (dir.), Chieko Baishô, Takuya Kimura",8.166973761986876,317680,/title/tt0347149/
+The Great Escape,1963,138,"John Sturges (dir.), Steve McQueen, James Garner",8.161186500583442,219196,/title/tt0057115/
+A Beautiful Mind,2001,139,"Ron Howard (dir.), Russell Crowe, Ed Harris",8.161132618018398,825861,/title/tt0268978/
+All About Eve,1950,140,"Joseph L. Mankiewicz (dir.), Bette Davis, Anne Baxter",8.160949850478264,117358,/title/tt0042192/
+Casino,1995,141,"Martin Scorsese (dir.), Robert De Niro, Sharon Stone",8.159815758515018,451437,/title/tt0112641/
+Pan's Labyrinth,2006,142,"Guillermo del Toro (dir.), Ivana Baquero, Ariadna Gil",8.154826981624268,605913,/title/tt0457430/
+The Wolf of Wall Street,2013,143,"Martin Scorsese (dir.), Leonardo DiCaprio, Jonah Hill",8.153618376092645,1137978,/title/tt0993846/
+El secreto de sus ojos,2009,144,"Juan José Campanella (dir.), Ricardo Darín, Soledad Villamil",8.15031681328948,187377,/title/tt1305806/
+"Lock, Stock and Two Smoking Barrels",1998,145,"Guy Ritchie (dir.), Jason Flemyng, Dexter Fletcher",8.14883980240988,523481,/title/tt0120735/
+Tonari no Totoro,1988,146,"Hayao Miyazaki (dir.), Hitoshi Takagi, Noriko Hidaka",8.148111454115886,277124,/title/tt0096283/
+Raging Bull,1980,147,"Martin Scorsese (dir.), Robert De Niro, Cathy Moriarty",8.147769709340878,313013,/title/tt0081398/
+There Will Be Blood,2007,148,"Paul Thomas Anderson (dir.), Daniel Day-Lewis, Paul Dano",8.143159780835923,501597,/title/tt0469494/
+Judgment at Nuremberg,1961,149,"Stanley Kramer (dir.), Spencer Tracy, Burt Lancaster",8.140081279280674,67159,/title/tt0055031/
+The Treasure of the Sierra Madre,1948,150,"John Huston (dir.), Humphrey Bogart, Walter Huston",8.139963294531634,111228,/title/tt0040897/
+Babam ve Oglum,2005,151,"Çagan Irmak (dir.), Çetin Tekindor, Fikret Kuskan",8.132247629183853,75823,/title/tt0476735/
+"Three Billboards Outside Ebbing, Missouri",2017,152,"Martin McDonagh (dir.), Frances McDormand, Woody Harrelson",8.132190523561585,409923,/title/tt5027774/
+Dial M for Murder,1954,153,"Alfred Hitchcock (dir.), Ray Milland, Grace Kelly",8.131572357999021,152854,/title/tt0046912/
+The Gold Rush,1925,154,"Charles Chaplin (dir.), Charles Chaplin, Mack Swain",8.130162786591058,97167,/title/tt0015864/
+Chinatown,1974,155,"Roman Polanski (dir.), Jack Nicholson, Faye Dunaway",8.129966832555743,286028,/title/tt0071315/
+V for Vendetta,2005,156,"James McTeigue (dir.), Hugo Weaving, Natalie Portman",8.124918373417943,1007714,/title/tt0434409/
+No Country for Old Men,2007,157,"Ethan Coen (dir.), Tommy Lee Jones, Javier Bardem",8.124462872879086,829282,/title/tt0477348/
+Shutter Island,2010,158,"Martin Scorsese (dir.), Leonardo DiCaprio, Emily Mortimer",8.124103386809582,1093051,/title/tt1130884/
+Det sjunde inseglet,1957,159,"Ingmar Bergman (dir.), Max von Sydow, Gunnar Björnstrand",8.122879211197048,158768,/title/tt0050976/
+Inside Out,2015,160,"Pete Docter (dir.), Amy Poehler, Bill Hader",8.121697442218272,590983,/title/tt2096673/
+Warrior,2011,161,"Gavin O'Connor (dir.), Tom Hardy, Nick Nolte",8.119721993674007,426786,/title/tt1291584/
+The Elephant Man,1980,162,"David Lynch (dir.), Anthony Hopkins, John Hurt",8.11685654591187,213981,/title/tt0080678/
+Trainspotting,1996,163,"Danny Boyle (dir.), Ewan McGregor, Ewen Bremner",8.116356594355482,622439,/title/tt0117951/
+The Sixth Sense,1999,164,"M. Night Shyamalan (dir.), Bruce Willis, Haley Joel Osment",8.115557921784204,892820,/title/tt0167404/
+The Thing,1982,165,"John Carpenter (dir.), Kurt Russell, Wilford Brimley",8.114379284623602,359241,/title/tt0084787/
+Jurassic Park,1993,166,"Steven Spielberg (dir.), Sam Neill, Laura Dern",8.111006220434327,843138,/title/tt0107290/
+Gone with the Wind,1939,167,"Victor Fleming (dir.), Clark Gable, Vivien Leigh",8.107481261400602,283330,/title/tt0031381/
+Smultronstället,1957,168,"Ingmar Bergman (dir.), Victor Sjöström, Bibi Andersson",8.105482058389027,92537,/title/tt0050986/
+Blade Runner,1982,169,"Ridley Scott (dir.), Harrison Ford, Rutger Hauer",8.104822774997874,676639,/title/tt0083658/
+Finding Nemo,2003,170,"Andrew Stanton (dir.), Albert Brooks, Ellen DeGeneres",8.10451963754214,926178,/title/tt0266543/
+The Truman Show,1998,171,"Peter Weir (dir.), Jim Carrey, Ed Harris",8.104132924611328,908090,/title/tt0120382/
+Room,2015,172,"Lenny Abrahamson (dir.), Brie Larson, Jacob Tremblay",8.103227966717089,355863,/title/tt3170832/
+Stalker,1979,173,"Andrei Tarkovsky (dir.), Alisa Freyndlikh, Aleksandr Kaydanovskiy",8.102144964322123,111532,/title/tt0079944/
+The Bridge on the River Kwai,1957,174,"David Lean (dir.), William Holden, Alec Guinness",8.10204599881824,198296,/title/tt0050212/
+Kill Bill: Vol 1,2003,175,"Quentin Tarantino (dir.), Uma Thurman, David Carradine",8.100799442068695,975302,/title/tt0266697/
+Fargo,1996,176,"Joel Coen (dir.), William H. Macy, Frances McDormand",8.098874886130174,599659,/title/tt0116282/
+Tôkyô monogatari,1953,177,"Yasujirô Ozu (dir.), Chishû Ryû, Chieko Higashiyama",8.09743045349767,50204,/title/tt0046438/
+The Third Man,1949,178,"Carol Reed (dir.), Orson Welles, Joseph Cotten",8.097036048487539,154931,/title/tt0041959/
+On the Waterfront,1954,179,"Elia Kazan (dir.), Marlon Brando, Karl Malden",8.096629521618842,138107,/title/tt0047296/
+Gran Torino,2008,180,"Clint Eastwood (dir.), Clint Eastwood, Bee Vang",8.095761757190575,705883,/title/tt1205489/
+Salinui chueok,2003,181,"Bong Joon Ho (dir.), Kang-ho Song, Sang-kyung Kim",8.094991889915098,127276,/title/tt0353969/
+The Deer Hunter,1978,182,"Michael Cimino (dir.), Robert De Niro, Christopher Walken",8.092618841667345,303749,/title/tt0077416/
+Relatos salvajes,2014,183,"Damián Szifron (dir.), Darío Grandinetti, María Marull",8.092091854422234,169793,/title/tt3011894/
+Andhadhun,2018,184,"Sriram Raghavan (dir.), Ayushmann Khurrana, Tabu",8.088285734935699,65037,/title/tt8108198/
+Klaus,2019,185,"Sergio Pablos (dir.), Jason Schwartzman, J.K. Simmons",8.087978649195186,73997,/title/tt4729430/
+In the Name of the Father,1993,186,"Jim Sheridan (dir.), Daniel Day-Lewis, Pete Postlethwaite",8.084970522101216,152416,/title/tt0107207/
+Mary and Max,2009,187,"Adam Elliot (dir.), Toni Collette, Philip Seymour Hoffman",8.084513905499398,160759,/title/tt0978762/
+Gone Girl,2014,188,"David Fincher (dir.), Ben Affleck, Rosamund Pike",8.081933532753366,830986,/title/tt2267998/
+The Big Lebowski,1998,189,"Joel Coen (dir.), Jeff Bridges, John Goodman",8.081280521935698,711800,/title/tt0118715/
+Hacksaw Ridge,2016,190,"Mel Gibson (dir.), Andrew Garfield, Sam Worthington",8.081082092560623,416786,/title/tt2119532/
+The Grand Budapest Hotel,2014,191,"Wes Anderson (dir.), Ralph Fiennes, F. Murray Abraham",8.080641789048968,685955,/title/tt2278388/
+Eskiya,1996,192,"Yavuz Turgul (dir.), Sener Sen, Ugur Yücel",8.07948763039834,61657,/title/tt0116231/
+Before Sunrise,1995,193,"Richard Linklater (dir.), Ethan Hawke, Julie Delpy",8.078530009269205,261933,/title/tt0112471/
+To Be or Not to Be,1942,194,"Ernst Lubitsch (dir.), Carole Lombard, Jack Benny",8.077386761838927,27190,/title/tt0035446/
+Catch Me If You Can,2002,195,"Steven Spielberg (dir.), Leonardo DiCaprio, Tom Hanks",8.07733749200547,797728,/title/tt0264464/
+Persona,1966,196,"Ingmar Bergman (dir.), Bibi Andersson, Liv Ullmann",8.07642651922412,98486,/title/tt0060827/
+Ford v Ferrari,2019,197,"James Mangold (dir.), Matt Damon, Christian Bale",8.075415333492574,247255,/title/tt1950186/
+The General,1926,198,"Clyde Bruckman (dir.), Buster Keaton, Marion Mack",8.072526688483665,78543,/title/tt0017925/
+How to Train Your Dragon,2010,199,"Dean DeBlois (dir.), Jay Baruchel, Gerard Butler",8.07167601120765,650254,/title/tt0892769/
+Prisoners,2013,200,"Denis Villeneuve (dir.), Hugh Jackman, Jake Gyllenhaal",8.07140412138059,579300,/title/tt1392214/
+Sherlock Jr,1924,201,"Buster Keaton (dir.), Buster Keaton, Kathryn McGuire",8.071122477594736,39458,/title/tt0015324/
+Mr Smith Goes to Washington,1939,202,"Frank Capra (dir.), James Stewart, Jean Arthur",8.06833019132317,104348,/title/tt0031679/
+12 Years a Slave,2013,203,"Steve McQueen (dir.), Chiwetel Ejiofor, Michael Kenneth Williams",8.065257318208035,623234,/title/tt2024544/
+Barry Lyndon,1975,204,"Stanley Kubrick (dir.), Ryan O'Neal, Marisa Berenson",8.062340077951138,144878,/title/tt0072684/
+Mad Max: Fury Road,2015,205,"George Miller (dir.), Tom Hardy, Charlize Theron",8.061291962118615,854228,/title/tt1392190/
+Network,1976,206,"Sidney Lumet (dir.), Faye Dunaway, William Holden",8.057523336110542,141583,/title/tt0074958/
+Stand by Me,1986,207,"Rob Reiner (dir.), Wil Wheaton, River Phoenix",8.057321395723934,355027,/title/tt0092005/
+Cool Hand Luke,1967,208,"Stuart Rosenberg (dir.), Paul Newman, George Kennedy",8.05683199454256,158116,/title/tt0061512/
+Million Dollar Baby,2004,209,"Clint Eastwood (dir.), Hilary Swank, Clint Eastwood",8.056598985252128,622077,/title/tt0405159/
+Into the Wild,2007,210,"Sean Penn (dir.), Emile Hirsch, Vince Vaughn",8.052896560655649,559564,/title/tt0758758/
+Hachi: A Dog's Tale,2009,211,"Lasse Hallström (dir.), Richard Gere, Joan Allen",8.052889128708438,245198,/title/tt1028532/
+Ben-Hur,1959,212,"William Wyler (dir.), Charlton Heston, Jack Hawkins",8.052805597055507,214452,/title/tt0052618/
+Le salaire de la peur,1953,213,"Henri-Georges Clouzot (dir.), Yves Montand, Charles Vanel",8.052093391414045,52788,/title/tt0046268/
+Dead Poets Society,1989,214,"Peter Weir (dir.), Robin Williams, Robert Sean Leonard",8.05207008250268,409977,/title/tt0097165/
+Platoon,1986,215,"Oliver Stone (dir.), Charlie Sheen, Tom Berenger",8.051472069433638,372717,/title/tt0091763/
+Harry Potter and the Deathly Hallows: Part 2,2011,216,"David Yates (dir.), Daniel Radcliffe, Emma Watson",8.050909734213969,741644,/title/tt1201607/
+Life of Brian,1979,217,"Terry Jones (dir.), Graham Chapman, John Cleese",8.050702445681951,358530,/title/tt0079470/
+Logan,2017,218,"James Mangold (dir.), Hugh Jackman, Patrick Stewart",8.04987930928188,625635,/title/tt3315342/
+Rush,2013,219,"Ron Howard (dir.), Daniel Brühl, Chris Hemsworth",8.049704361289502,422004,/title/tt1979320/
+Du rififi chez les hommes,1955,220,"Jules Dassin (dir.), Jean Servais, Carl Möhner",8.047128576937917,26224,/title/tt0048021/
+La passion de Jeanne d'Arc,1928,221,"Carl Theodor Dreyer (dir.), Maria Falconetti, Eugene Silvain",8.04499143112353,45659,/title/tt0019254/
+Ah-ga-ssi,2016,222,"Chan-wook Park (dir.), Min-hee Kim, Jung-woo Ha",8.044298388793,103795,/title/tt4016934/
+Andrei Rublev,1966,223,"Andrei Tarkovsky (dir.), Anatoliy Solonitsyn, Ivan Lapikov",8.043398601232218,44631,/title/tt0060107/
+Les quatre cents coups,1959,224,"François Truffaut (dir.), Jean-Pierre Léaud, Albert Rémy",8.043292151348487,101600,/title/tt0053198/
+Hotel Rwanda,2004,225,"Terry George (dir.), Don Cheadle, Sophie Okonedo",8.042594974382816,328732,/title/tt0395169/
+Spotlight,2015,226,"Tom McCarthy (dir.), Mark Ruffalo, Michael Keaton",8.041166858503058,405514,/title/tt1895587/
+Amores perros,2000,227,"Alejandro G. Iñárritu (dir.), Emilio Echevarría, Gael García Bernal",8.040751075005872,218857,/title/tt0245712/
+Rang De Basanti,2006,228,"Rakeysh Omprakash Mehra (dir.), Aamir Khan, Soha Ali Khan",8.037188880005907,108702,/title/tt0405508/
+Kaze no tani no Naushika,1984,229,"Hayao Miyazaki (dir.), Sumi Shimamoto, Mahito Tsujimura",8.036186144415845,144415,/title/tt0087544/
+Rocky,1976,230,"John G. Avildsen (dir.), Sylvester Stallone, Talia Shire",8.034783232462487,505279,/title/tt0075148/
+La haine,1995,231,"Mathieu Kassovitz (dir.), Vincent Cassel, Hubert Koundé",8.034764079582873,143930,/title/tt0113247/
+Gangs of Wasseypur,2012,232,"Anurag Kashyap (dir.), Manoj Bajpayee, Richa Chadha",8.033326900677695,78002,/title/tt1954470/
+"Monsters, Inc",2001,233,"Pete Docter (dir.), Billy Crystal, John Goodman",8.032137558021105,793440,/title/tt0198781/
+Rebecca,1940,234,"Alfred Hitchcock (dir.), Laurence Olivier, Joan Fontaine",8.031709503304075,119022,/title/tt0032976/
+Portrait de la jeune fille en feu,2019,235,"Céline Sciamma (dir.), Noémie Merlant, Adèle Haenel",8.024251328495636,48139,/title/tt8613070/
+Before Sunset,2004,236,"Richard Linklater (dir.), Ethan Hawke, Julie Delpy",8.019179804040533,228085,/title/tt0381681/
+The Circus,1928,237,"Charles Chaplin (dir.), Charles Chaplin, Merna Kennedy",8.018954537661287,27088,/title/tt0018773/
+It Happened One Night,1934,238,"Frank Capra (dir.), Clark Gable, Claudette Colbert",8.01819866911398,91157,/title/tt0025316/
+Fa yeung nin wah,2000,239,"Kar-Wai Wong (dir.), Tony Chiu-Wai Leung, Maggie Cheung",8.017501993775667,118734,/title/tt0118694/
+"Paris, Texas",1984,240,"Wim Wenders (dir.), Harry Dean Stanton, Nastassja Kinski",8.01638012503742,86042,/title/tt0087884/
+Drishyam,2015,241,"Nishikant Kamat (dir.), Ajay Devgn, Shriya Saran",8.015990623942018,65597,/title/tt4430212/
+Contratiempo,2016,242,"Oriol Paulo (dir.), Mario Casas, Ana Wagener",8.012922632438622,126007,/title/tt4857264/
+The Help,2011,243,"Tate Taylor (dir.), Emma Stone, Viola Davis",8.012229507268094,418793,/title/tt1454029/
+The Princess Bride,1987,244,"Rob Reiner (dir.), Cary Elwes, Mandy Patinkin",8.011810491141715,384440,/title/tt0093779/
+The Terminator,1984,245,"James Cameron (dir.), Arnold Schwarzenegger, Linda Hamilton",8.009044523392754,782829,/title/tt0088247/
+La battaglia di Algeri,1966,246,"Gillo Pontecorvo (dir.), Brahim Hadjadj, Jean Martin",8.008529617920443,50975,/title/tt0058946/
+Kumonosu-jô,1957,247,"Akira Kurosawa (dir.), Toshirô Mifune, Minoru Chiaki",8.007757701814722,44695,/title/tt0050613/
+"Swades: We, the People",2004,248,"Ashutosh Gowariker (dir.), Shah Rukh Khan, Gayatri Joshi",8.007482960129366,81064,/title/tt0367110/
+"Shin seiki Evangelion Gekijô-ban: Air/Magokoro wo, kimi ni",1997,249,"Hideaki Anno (dir.), Megumi Ogata, Megumi Hayashibara",8.007435717382336,36160,/title/tt0169858/
+Koe no katachi,2016,250,"Naoko Yamada (dir.), Miyu Irino, Saori Hayami",8.007370752629011,40078,/title/tt5323662/
