@@ -18,4 +18,26 @@ for i, mvi in enumerate(movies):
 
     imdb[title] = links[i]
 
-print(imdb)
+# Load data into SQL database
+import sqlite3
+
+conn = sqlite3.connect('IMDB_top_250.sqlite')
+cur = conn.cursor()
+
+# Setup Tables
+cur.executescript('''
+                  DROP TABLE IF EXISTS MovieLinks;
+
+                  CREATE TABLE MovieLinks (
+                      id        INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
+                      title     TEXT UNIQUE,
+                      link      TEXT UNIQUE
+                );
+                  ''')
+
+for k, v in imdb.items():
+    cur.execute('''
+                INSERT OR IGNORE INTO MovieLinks (title, link) VALUES (?,?)
+                ''', (k, v))
+conn.commit()
+conn.close()
